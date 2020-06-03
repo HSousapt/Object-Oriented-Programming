@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SemAtividade
+comment0.text=\n\ Class\ SemAtividade\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SemAtividade()
+comment2.params=t
+comment2.target=SemAtividade(SemAtividade)
+comment3.params=
+comment3.target=Atividades\ clone()
+comment4.params=valor\ fc\ fe
+comment4.target=double\ calculadeducao(double,\ double,\ double)
+numComments=5

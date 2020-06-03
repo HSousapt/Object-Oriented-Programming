@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Atividades
+comment0.text=\n\ Actividade\ economica\n\n\ @author\ a76257,\ a76361,\ a78164\n\ @version\ 20180523\n
+comment1.params=cod\ fat
+comment1.target=Atividades(int,\ double)
+comment1.text=\n\ Construtor\ parametrizado\n\n\ @param\ cod\ Codigo\ unico\ para\ a\ actividade\n\ @param\ fat\ Percentagem\ da\ dedu\u00E7ao\ total\ da\ despesa\ da\ actividade\n
+comment2.params=ativ
+comment2.target=Atividades(Atividades)
+comment2.text=\n\ Construtor\ de\ copia\n\n\ @param\ ativ\ Uma\ instancia\ da\ classe\ Atividades\n
+comment3.params=
+comment3.target=double\ getFator()
+comment3.text=\n\ @return\ Percentagem\ da\ dedu\u00E7ao\ total\ da\ despesa\ da\ actividade\n
+comment4.params=
+comment4.target=int\ getCodigo()
+comment4.text=\n\ @return\ Codigo\ da\ actividade\n
+comment5.params=valor\ fc\ fe
+comment5.target=double\ calculadeducao(double,\ double,\ double)
+comment5.text=\n\ Calcula\ o\ valor\ de\ deducao\n\n\ @param\ valor\ Valor\ da\ despesa\n\ @param\ fc\ Factor\ do\ cliente\n\ @param\ fe\ Factor\ da\ empresa\n\ @return\ Valor\ de\ deducao\n
+comment6.params=
+comment6.target=Atividades\ clone()
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=int\ hashCode()
+numComments=9

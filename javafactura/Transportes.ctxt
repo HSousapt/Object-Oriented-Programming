@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Transportes
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Transportes\ aqui.\n\n\ @author\ (seu\ nome)\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=
+comment1.target=Transportes()
+comment2.params=t
+comment2.target=Transportes(Transportes)
+comment3.params=
+comment3.target=Atividades\ clone()
+comment4.params=valor\ fc\ fe
+comment4.target=double\ calculadeducao(double,\ double,\ double)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

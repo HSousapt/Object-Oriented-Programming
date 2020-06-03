@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ContribuinteIndividual
+comment0.text=\n\n\ @author\ eu\n
+comment1.params=
+comment1.target=ContribuinteIndividual()
+comment1.text=\n\ Construtor\ vazio\n
+comment2.params=n\ mail\ name\ mor\ pass\ nfiscais
+comment2.target=ContribuinteIndividual(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.Set)
+comment2.text=\n\ Construtor\ parametrizado\n\n\ @param\ n\ NIF\ do\ contribuinte\n\ @param\ mail\ Mail\ do\ contribuinte\n\ @param\ name\ Nome\ do\ contribuinte\n\ @param\ mor\ Morada\ do\ contribuinte\n\ @param\ pass\ Password\ do\ contribuinte\n\ @param\ nfiscais\ NIFs\ do\ agregado\ familiar\n
+comment3.params=c
+comment3.target=ContribuinteIndividual(ContribuinteIndividual)
+comment3.text=\n\ Construtor\ de\ copia\n\n\ @param\ c\ O\ outro\ contribuinte\n
+comment4.params=
+comment4.target=int\ getNAgregado()
+comment4.text=\n\ Devolve\ o\ numero\ do\ agregado\n\n\ @return\ O\ numero\ do\ agregado\n
+comment5.params=
+comment5.target=java.util.Set\ getNFiscais()
+comment5.text=\n\ Devolve\ os\ NIFs\ do\ agregado\n\n\ @return\ NIFs\ do\ agregado\n
+comment6.params=
+comment6.target=double\ getCoeficiente()
+comment6.text=\n\ Devolve\ o\ coeficiente\ fiscal\n\n\ @return\ O\ coeficiente\ fiscal\n
+comment7.params=
+comment7.target=ContribuinteIndividual\ clone()
+comment7.text=\n\ Metodo\ clone\ da\ classe\ ContribuinteIndividual\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

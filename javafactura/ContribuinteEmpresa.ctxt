@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ContribuinteEmpresa
+comment0.text=\n\ @author\ eu\n
+comment1.params=
+comment1.target=ContribuinteEmpresa()
+comment1.text=\n\ Construtor\ vazio\n
+comment2.params=atividades\ n\ mail\ name\ mor\ pass
+comment2.target=ContribuinteEmpresa(java.util.Set,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\n\ Construtor\ parametrizado\n\n\ @param\ atividades\ Actividades\ nas\ quais\ a\ empresa\ actua\n\ @param\ n\ O\ NIF\ da\ empresa\n\ @param\ mail\ O\ mail\ da\ empresa\n\ @param\ name\ Nome\ da\ empresa\n\ @param\ mor\ Morada\ da\ empresa\n\ @param\ pass\ Password\ da\ conta\n
+comment3.params=c
+comment3.target=ContribuinteEmpresa(ContribuinteEmpresa)
+comment3.text=\n\ Construtor\ por\ copia\n\n\ @param\ c\ A\ outra\ empresa\n
+comment4.params=
+comment4.target=java.util.Set\ getAtividades()
+comment4.text=\n\ Devolve\ as\ actividades\ em\ que\ a\ empresa\ actua\n\n\ @return\ As\ actividades\ em\ que\ a\ empresa\ actua\n
+comment5.params=
+comment5.target=double\ getCoeficiente()
+comment6.params=
+comment6.target=ContribuinteEmpresa\ clone()
+comment6.text=\n\ Metodo\ clone\ da\ classe\ ContribuinteEmpresa\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ \n
+numComments=8
